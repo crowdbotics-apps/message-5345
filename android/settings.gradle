@@ -1,0 +1,3 @@
+rootProject.name = 'message_5345'
+
+include ':app'
